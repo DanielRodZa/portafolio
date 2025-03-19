@@ -20,7 +20,7 @@ A continuación, encontrarás una breve descripción de cada proyecto incluido e
 ### 1. Extrae15Productos
 
 -   **Descripción**: Este proyecto automatiza la extracción de información de productos de una página web. Permite obtener detalles como nombres, precios y descripciones de los primeros 15 productos listados.
--   **Enlace al Proyecto**: [Extrae15Productos](https://github.com/DanielRodZa/portafolio.git)
+-   **Enlace al Proyecto**: [Extrae15Productos](https://github.com/DanielRodZa/Extrae15Productos)
 
 ### 2. FormatoDataJSON
 
