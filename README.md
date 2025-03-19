@@ -51,17 +51,6 @@ A continuación, encontrarás una breve descripción de cada proyecto incluido e
 
 Cada proyecto se encuentra en su propio directorio dentro de este repositorio. Para utilizar un proyecto específico, navega al directorio correspondiente y sigue las instrucciones proporcionadas en el `README.md` de cada proyecto.
 
-## Contribuciones
-
-¡Las contribuciones son bienvenidas! Si deseas contribuir a alguno de estos proyectos, por favor, sigue estos pasos:
-
-1.  Haz un fork del repositorio.
-2.  Crea una rama con tus cambios (`git checkout -b feature/nueva-funcionalidad`).
-3.  Realiza tus cambios y haz commit (`git commit -am 'Añade nueva funcionalidad'`).
-4.  Sube los cambios a tu rama (`git push origin feature/nueva-funcionalidad`).
-5.  Abre un pull request.
-
-
 ---
 
 Espero que estos proyectos te sean de utilidad. 
