@@ -1,4 +1,12 @@
-# Colección de Proyectos Python
+# Daniel Rodríguez Zavaleta
+
+Este repositorio es para mostrar mi portafolio en el cual muestro mis habilidades con python, librerías y frameworks.
+
+### Tecnoligías utilizadas
+Python, Pandas, Numpy, HTML, CSS, BeautifulSoup, Selenium, Flask
+
+
+# Portafolio de Proyectos Python
 
 ¡Bienvenido a este repositorio donde encontrarás una colección de proyectos Python desarrollados para diversas funcionalidades! Cada proyecto está diseñado para abordar tareas específicas y ofrece soluciones prácticas para diferentes necesidades.
 
@@ -50,10 +58,8 @@ Cada proyecto se encuentra en su propio directorio dentro de este repositorio. P
 4.  Sube los cambios a tu rama (`git push origin feature/nueva-funcionalidad`).
 5.  Abre un pull request.
 
-## Licencia
-
-Este repositorio y todos sus proyectos están bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
 ---
 
-Espero que estos proyectos te sean de utilidad. ¡No dudes en explorar y contribuir!
+Espero que estos proyectos te sean de utilidad. 
+
