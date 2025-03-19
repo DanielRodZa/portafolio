@@ -5,6 +5,9 @@ Este repositorio es para mostrar mi portafolio en el cual muestro mis habilidade
 ### Tecnoligías utilizadas
 Python, Pandas, Numpy, HTML, CSS, BeautifulSoup, Selenium, Flask
 
+## Author
+
+- [@DanielRodZa](https://github.com/DanielRodZa)
 
 # Portafolio de Proyectos Python
 
