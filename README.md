@@ -1,9 +1,8 @@
 # Daniel Rodríguez Zavaleta
 
-Este repositorio es para mostrar mi portafolio en el cual muestro mis habilidades con python, librerías y frameworks.
 
 ### Tecnoligías utilizadas
-Python, Pandas, Numpy, HTML, CSS, BeautifulSoup, Selenium, Flask
+Python, JavaScript, TypeScript, React, Pandas, Numpy, HTML, CSS, TailwindCSS, BeautifulSoup, Selenium, Flask
 
 ## Author
 
@@ -53,5 +52,16 @@ Cada proyecto se encuentra en su propio directorio dentro de este repositorio. P
 
 ---
 
-Espero que estos proyectos te sean de utilidad. 
+# Portafolio de Proyectos Fullstack
 
+### 1. Sitio de ventas de guitarras
+
+-   **Descripción**: Un sitio web dinámico creado con HTML, CSS y React que simula una tienda virtual de venta de guitarras, tiene un carrito de compras.
+-   **Enlace al repositorio**: [Tienda de Guitarras](https://github.com/DanielRodZa/tiendaGuitarras)
+-   **Enlace al sitio**: [Sitio Web](https://peaceful-beignet-7505d7.netlify.app)
+
+### 2. Sitio para calcular propina
+
+-   **Descripción**: Un sitio web dinámico creado con HTML, TailwindCSS y Typescrip que calcula la propina deseada sobre productos seleccionados de un menú.
+-   **Enlace al repositorio**: [Calculadora de propinas](https://github.com/DanielRodZa/calculadoraPropinas.git)
+-   **Enlace al sitio**: [Sitio Web](https://enchanting-meringue-4f6785.netlify.app)
